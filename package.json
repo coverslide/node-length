@@ -2,7 +2,7 @@
   "name": "length",
   "version": "0.0.1",
   "description": "Time lengths for humans",
-  "main": "index.js",
+  "main": "length.js",
   "scripts": {
     "test": "tap test.js"
   },

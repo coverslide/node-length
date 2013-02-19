@@ -1,6 +1,6 @@
 /*jslint node: true, vars: true */
 
-var length = (function () {
+module.exports = (function () {
     'use strict';
 
     var MATCH_NUM = /^\s*([0-9]*\.?[0-9]+)\s*([A-Za-z ]*)\s*$/,
